@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceberg&family=Original+Surfer&family=Pacifico&display=swap');
+
+body { 
+	font-family: "Original Surfer", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+  	background: #f15339;
+  	color: #0ba9c9;
+  	font-size: 45px;
+  	text-align: center;
+  	user-select: none;
+ }
